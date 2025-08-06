@@ -4,6 +4,8 @@ This project implements a sequence detector using a Finite State Machine (FSM) i
 
 ![Example Device output](./device.png)
 
+**[▶️ Demo Video](https://drive.google.com/file/d/1ou8SjxH8bC6klVeFfadXdVs5xEmFpCzB/view?usp=sharing)**
+
 
 ## 🖲️ How to Use (DE10-Lite Board)
 
