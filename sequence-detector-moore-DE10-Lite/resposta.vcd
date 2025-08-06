@@ -1,0 +1,159 @@
+$date
+  Mon Aug  4 21:57:43 2025
+$end
+$version
+  GHDL v0
+$end
+$timescale
+  1 fs
+$end
+$scope module standard $end
+$upscope $end
+$scope module std_logic_1164 $end
+$upscope $end
+$scope module quartus_moore_testbench $end
+$var reg 2 ! key[1:0] $end
+$var reg 2 " sw[1:0] $end
+$var reg 3 # ledr[2:0] $end
+$var reg 1 $ z $end
+$scope module uut $end
+$var reg 2 % key[1:0] $end
+$var reg 2 & sw[1:0] $end
+$var reg 3 ' ledr[2:0] $end
+$var reg 7 ( hex0[6:0] $end
+$var reg 7 ) hex1[6:0] $end
+$var reg 7 * hex2[6:0] $end
+$var reg 7 + hex3[6:0] $end
+$var reg 7 , hex4[6:0] $end
+$var reg 7 - hex5[6:0] $end
+$var reg 1 . z $end
+$comment state is not handled $end
+$var reg 1 / x $end
+$var reg 1 0 reset $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+b11 !
+b00 "
+bUUU #
+0$
+b11 %
+b00 &
+bUUU '
+b0001000 (
+b1111111 )
+b1111111 *
+b1111111 +
+b1111111 ,
+b1000000 -
+0.
+0/
+00
+#10000000
+#20000000
+b01 "
+b01 &
+#30000000
+b10 !
+b10 %
+#40000000
+b11 !
+b11 %
+b0000011 (
+#50000000
+b10 !
+b10 %
+#60000000
+b11 !
+b11 %
+b1000110 (
+#70000000
+b00 "
+b00 &
+#80000000
+b10 !
+b10 %
+#90000000
+b11 !
+b11 %
+b0100001 (
+#100000000
+b01 "
+b01 &
+#110000000
+b10 !
+b10 %
+#120000000
+b11 !
+1$
+b11 %
+b0000110 (
+b1111001 -
+1.
+#130000000
+#140000000
+b10 !
+b10 %
+#150000000
+b11 !
+0$
+b11 %
+b1000110 (
+b1000000 -
+0.
+#160000000
+b00 "
+b00 &
+#170000000
+b10 !
+b10 %
+#180000000
+b11 !
+b11 %
+b0100001 (
+#190000000
+b01 "
+b01 &
+#200000000
+b10 !
+b10 %
+#210000000
+b11 !
+1$
+b11 %
+b0000110 (
+b1111001 -
+1.
+#220000000
+b00 "
+b00 &
+#230000000
+b10 !
+b10 %
+#240000000
+b11 !
+0$
+b11 %
+b0001000 (
+b1000000 -
+0.
+#250000000
+b01 "
+b01 &
+#260000000
+b10 !
+b10 %
+#270000000
+b11 !
+b11 %
+b0000011 (
+#280000000
+#290000000
+b10 !
+b10 %
+#300000000
+b11 !
+b11 %
+b1000110 (
+#310000000

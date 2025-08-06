@@ -1,0 +1,7 @@
+v 4
+file . "quartus_moore_testbench.vhd" "03ebc1a506dc9d33c6311fc7a19d457409bbc23c" "20250805005743.403":
+  entity quartus_moore_testbench at 2( 51) + 0 on 33;
+  architecture tb_arch of quartus_moore_testbench at 8( 159) + 0 on 34;
+file . "quartus_moore.vhd" "20c215e91fdb986d367dc3e54ad5af1e83b5ebfc" "20250805005743.398":
+  entity quartus_moore at 1( 0) + 0 on 31;
+  architecture process_3 of quartus_moore at 20( 589) + 0 on 32;
